@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo no meu repositório
+## Olá! Bem vindo ao meu Github,
 
 - 🔭 Trabalho com back-end e front-end
 - 🌱 Estudando Python
