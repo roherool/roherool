@@ -1,6 +1,6 @@
-## Olá! Eu sou o Roberto Oliveira
+## Olá! Me chamo Roberto Oliveira
 
-- 🔭 Hoje trabalho com back-end e front-end
+- 🔭 Trabalho com back-end e front-end
 - 🌱 Estudando Python
 
 <div align="center">
@@ -16,7 +16,6 @@
   <img align="center" alt="roherool-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="roherool-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="roherool-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="roherool-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
 ##
