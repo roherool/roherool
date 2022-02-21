@@ -1,7 +1,7 @@
 ## Olá! Bem vindo ao meu Github,
 
 - 🔭 Trabalho com back-end e front-end
-- 🌱 Estudando Python
+- 🌱 Estudando Python e React Native
 
 <div align="center">
   <a href="https://github.com/roherool">
