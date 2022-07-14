@@ -33,7 +33,15 @@
 #### Learning development technologies
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div> 
+</div>
+
+#### My development tools
+<div style="display: inline_block">
+  <img align="center" alt="Express.Js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+</div>
 
 #### My Style Tools Skills
 <div style="display: inline_block">
