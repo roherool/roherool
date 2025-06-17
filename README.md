@@ -42,12 +42,6 @@
   <a href="https://reactnative.dev/docs/getting-started" target="_blank">
     <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
 </div> 
 
 ##### LEARNING DEVELOPMENT TECHNOLOGIES
@@ -58,6 +52,12 @@
 
 ##### MY DEVELOPMENT TOOLS
 <div style="display: inline_block">
+  <a href="https://quarkus.io/guides/#" target="_blank">
+    <img align="center" alt="Quarkus" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white">
+  </a>
+  <a href="https://spring.io/guides" target="_blank">
+    <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  </a>
   <a href="https://expressjs.com/" target="_blank">
     <img align="center" alt="Express.Js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   </a>
@@ -88,6 +88,12 @@
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
 </div>
 
