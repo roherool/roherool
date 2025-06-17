@@ -61,6 +61,9 @@
   <a href="https://expressjs.com/" target="_blank">
     <img align="center" alt="Express.Js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   </a>
+  <a href="https://junit.org/junit5/" target="_blank">
+    <img align="center" alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+  </a>
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
     <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   </a>
