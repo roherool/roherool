@@ -27,6 +27,9 @@
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img align="center" alt="Node.JS" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank">
     <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
@@ -49,8 +52,8 @@
 
 ##### LEARNING DEVELOPMENT TECHNOLOGIES
 <div style="display: inline_block">
-  <a href="https://www.python.org/" target="_blank">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <a href="https://vaadin.com/docs/latest/" target="_blank">
+    <img align="center" alt="Vaadin" src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white">
 </div>
 
 ##### MY DEVELOPMENT TOOLS
