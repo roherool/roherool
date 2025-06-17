@@ -22,7 +22,7 @@
 ##### DEVELOPMENT TECHNOLOGIES USED
 <div style="display: inline_block">
   <a href="https://www.oracle.com/java/" target="_blank">
-    <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img align="center" alt="Node.JS" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
