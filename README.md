@@ -20,7 +20,7 @@
 </div>
 
 ##### DEVELOPMENT TECHNOLOGIES USED
-<div style="display: inline_block; gap: '1rem' ">
+<div style="display: flex; gap: 10px">
   <a href="https://www.oracle.com/java/" target="_blank">
     <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
