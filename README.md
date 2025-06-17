@@ -126,10 +126,13 @@
   <a href="https://azure.microsoft.com/en-US/" target="_blank">
     <img align="center" alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   </a>
-  <a href="https://vercel.com/docs" target="_blank">
-    <img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
   <a href="https://www.linux.org/pages/download/" target="_blank">
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  <a href="https://kubernetes.io/docs/home/" target="_blank">
+    <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </a>
 </div>
