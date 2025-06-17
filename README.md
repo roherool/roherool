@@ -67,9 +67,6 @@
   <a href="https://redux.js.org/" target="_blank">
     <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-  </a>
 </div>
 
 ##### MY STYLE TOOLS SKILLS
@@ -112,6 +109,9 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   </a>
 </div>
 
